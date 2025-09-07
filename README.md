@@ -14,6 +14,9 @@ Access settings through the application menu or status bar. Available options in
 
 Settings are automatically saved and will persist between application restarts.
 
+![ScreenRecording2025-09-07at12 21 22-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b7c6ad07-f76e-45de-99aa-db6b38fe372a)
+
+
 ## Use Cases
 
 - Dedicated web application launcher
