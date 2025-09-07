@@ -1,0 +1,44 @@
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Fuxa.exe.config
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Fuxa.exe
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Fuxa.pdb
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Microsoft.Web.WebView2.Core.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\tobias\source\repos\Fuxa\Fuxa\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa Client.csproj.AssemblyReference.cache
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa.ApplicationSettings.resources
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa.MainForm.resources
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa.Properties.Resources.resources
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa Client.csproj.GenerateResource.cache
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa Client.csproj.CoreCompileInputs.cache
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa Client.csproj.CopyComplete
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa.exe
+C:\Users\tobias\source\repos\Fuxa\Fuxa\obj\Release\Fuxa.pdb
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Fuxa Client.exe.config
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Fuxa Client.exe
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Fuxa Client.pdb
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Microsoft.Web.WebView2.Core.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\Fuxa Client.csproj.AssemblyReference.cache
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\Fuxa Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\FuxaClient.ApplicationSettings.resources
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\FuxaClient.MainForm.resources
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\FuxaClient.Properties.Resources.resources
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\Fuxa Client.csproj.GenerateResource.cache
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\Fuxa Client.csproj.CoreCompileInputs.cache
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\Fuxa Client.csproj.CopyComplete
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\Fuxa Client.exe
+C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Release\Fuxa Client.pdb
