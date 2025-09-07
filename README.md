@@ -33,3 +33,4 @@ Settings are automatically saved and will persist between application restarts.
 * Password protect config file
 * Password protect the desktop application
 * Option to disable internet
+* Option to disable browser downloads
