@@ -2,14 +2,6 @@
 
 A lightweight Windows desktop application that provides a dedicated browser experience for web applications using Microsoft's WebView2 control.
 
-## Features
-
-- **Custom URL Configuration** - Set any website as your default page
-- **Kiosk Mode Options** - Hide toolbar and title bar for a clean, fullscreen experience
-- **Startup Behavior** - Configure the application to start maximized
-- **Windows Integration** - Optional autostart with Windows login
-- **Persistent Settings** - All configurations are saved and restored between sessions
-
 ## Configuration
 
 Access settings through the application menu or status bar. Available options include:
