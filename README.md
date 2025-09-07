@@ -32,3 +32,4 @@ Settings are automatically saved and will persist between application restarts.
 * Cross platform support - Windows, MacOS, Linux, Android, IOS
 * Password protect config file
 * Password protect the desktop application
+* Option to disable internet
