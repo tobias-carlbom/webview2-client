@@ -38,3 +38,4 @@ Settings are automatically saved and will persist between application restarts.
 * Option to disable internet
 * Option to disable browser downloads
 * Add splash screen
+* Support for multiple monitors
