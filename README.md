@@ -2,7 +2,7 @@
 
 A lightweight Windows desktop application that provides a dedicated browser experience for web applications using Microsoft's WebView2 control.
 
-## Configuration
+## Features
 
 Access settings through the application menu or status bar. Available options include:
 
@@ -11,6 +11,8 @@ Access settings through the application menu or status bar. Available options in
 - **Hide Toolbar** - Remove the menu bar for a cleaner interface
 - **Hide Title Bar** - Remove window decorations for kiosk-style display
 - **Autostart** - Automatically launch with Windows
+
+Settings are automatically saved and will persist between application restarts.
 
 ## Use Cases
 
@@ -25,11 +27,8 @@ Access settings through the application menu or status bar. Available options in
 - .NET Framework 4.7.2 or higher
 - Microsoft Edge WebView2 Runtime
 
-## Getting Started
+## Goals
 
-1. Launch the application
-2. Right-click the menu or status bar to access settings
-3. Configure your preferred URL and display options
-4. Click "Save" to apply changes
-
-Settings are automatically saved and will persist between application restarts.
+* Cross platform support - Windows, MacOS, Linux, Android, IOS
+* Password protect config file
+* Password protect the desktop application
