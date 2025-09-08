@@ -1,69 +1,6 @@
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Webview2 Client.exe.config
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Webview2 Client.exe
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Webview2 Client.pdb
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Microsoft.Web.WebView2.Core.dll
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Microsoft.Web.WebView2.Core.xml
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2 Client.csproj.AssemblyReference.cache
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2 Client.csproj.SuggestedBindingRedirects.cache
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2Client.ApplicationSettings.resources
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2Client.MainForm.resources
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2Client.Properties.Resources.resources
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2 Client.csproj.GenerateResource.cache
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2 Client.csproj.CoreCompileInputs.cache
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2 Client.csproj.CopyComplete
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2 Client.exe
-C:\Users\tobias\source\repos\Fuxa\Fuxa Client\obj\Debug\Webview2 Client.pdb
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Webview2 Client.exe.config
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Webview2 Client.exe
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Webview2 Client.pdb
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Core.dll
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Core.xml
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2 Client.csproj.AssemblyReference.cache
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2 Client.csproj.SuggestedBindingRedirects.cache
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2Client.ApplicationSettings.resources
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2Client.MainForm.resources
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2Client.Properties.Resources.resources
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2 Client.csproj.GenerateResource.cache
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2 Client.csproj.CoreCompileInputs.cache
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2 Client.csproj.CopyComplete
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2 Client.exe
-C:\Users\tobias\source\repos\Fuxa\Webview2 Client\obj\Debug\Webview2 Client.pdb
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Webview2 Client.exe.config
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Webview2 Client.exe
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Webview2 Client.pdb
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Core.dll
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Core.xml
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2 Client.csproj.AssemblyReference.cache
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2 Client.csproj.SuggestedBindingRedirects.cache
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2Client.ApplicationSettings.resources
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2Client.MainForm.resources
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2Client.Properties.Resources.resources
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2 Client.csproj.GenerateResource.cache
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2 Client.csproj.CoreCompileInputs.cache
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2 Client.csproj.CopyComplete
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2 Client.exe
-C:\Users\tobias\source\repos\Webview2 Client\Webview2 Client\obj\Debug\Webview2 Client.pdb
+C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\Webview2 Client.exe.config
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\Webview2 Client.exe
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\Webview2 Client.pdb
@@ -74,7 +11,8 @@ C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2 Client.csproj.AssemblyReference.cache
-C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2Client.ApplicationSettings.resources
+C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2Client.PasswordForm.resources
+C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2Client.SettingsForm.resources
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2Client.MainForm.resources
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2Client.Properties.Resources.resources
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2 Client.csproj.GenerateResource.cache
@@ -82,7 +20,3 @@ C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2.CFD52C50.Up2Date
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2 Client.exe
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2 Client.pdb
-C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
-C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
-C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
-C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2Client.ApplicationPassword.resources

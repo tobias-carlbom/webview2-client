@@ -11,9 +11,9 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Webview2Client
 {
-    public partial class ApplicationPassword : Form
+    public partial class PasswordForm : Form
     {
-        public ApplicationPassword()
+        public PasswordForm()
         {
             InitializeComponent();
         }

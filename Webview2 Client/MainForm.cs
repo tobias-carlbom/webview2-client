@@ -123,7 +123,7 @@ namespace Webview2Client
             if (string.IsNullOrWhiteSpace(adminPassword))
                 return true;
 
-            using (var passwordForm = new ApplicationPassword())
+            using (var passwordForm = new PasswordForm())
             {
                 if (passwordForm.ShowDialog() == DialogResult.OK)
                 {
@@ -142,7 +142,7 @@ namespace Webview2Client
                 return;
             }
 
-            using (ApplicationSettings configForm = new ApplicationSettings())
+            using (SettingsForm configForm = new SettingsForm())
             {
                 configForm.WebsiteUrl = currentUrl;
                 configForm.StartMaximized = bool.Parse(ConfigurationManager.AppSettings["StartMaximized"] ?? "false");

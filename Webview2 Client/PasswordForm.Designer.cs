@@ -1,6 +1,6 @@
 ﻿namespace Webview2Client
 {
-    partial class ApplicationPassword
+    partial class PasswordForm
     {
         /// <summary>
         /// Required designer variable.
