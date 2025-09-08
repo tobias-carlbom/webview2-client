@@ -48,24 +48,27 @@ namespace Webview2Client
             set { checkBox4.Checked = value; }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        public string AdminPassword
         {
-            // Optional: Add validation here
+            get { return textBoxPassword.Text; }
+            set { textBoxPassword.Text = value; }
+        }
+
+        private void buttonSave_Click(object sender, EventArgs e)
+        {
             if (string.IsNullOrWhiteSpace(textBox1.Text))
             {
                 MessageBox.Show("Please enter a valid URL.", "Validation Error",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return; // Don't close the dialog
+                return;
             }
 
-            // If validation passes, the DialogResult.OK will automatically close the dialog
             this.DialogResult = DialogResult.OK;
             this.Close();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void buttonCancel_Click(object sender, EventArgs e)
         {
-            // No validation needed for cancel
             this.DialogResult = DialogResult.Cancel;
             this.Close();
         }
