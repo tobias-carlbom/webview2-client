@@ -5,3 +5,5 @@
 /.vs
 /packages/Microsoft.Web.WebView2.1.0.3405.78
 /Webview2 Client/bin/Debug
+/Webview2 Client/bin/Release
+/Webview2 Client/obj/Release
