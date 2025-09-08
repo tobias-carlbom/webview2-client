@@ -85,3 +85,4 @@ C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
 C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tobias\Documents\Development\Webview2-client\Webview2 Client\obj\Debug\Webview2Client.ApplicationPassword.resources
