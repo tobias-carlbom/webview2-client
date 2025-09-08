@@ -6,12 +6,12 @@ A lightweight Windows desktop application that provides a dedicated browser expe
 
 Access settings through the application menu or status bar. Available options include:
 
-- **Website URL (http/https)**
-- **Start Maximized**
-- **Hide Toolbar**
-- **Hide Title Bar**
-- **Autostart (after login)**
-- **Persistant Settings**
+- *Website URL (http/https)*
+- *Start Maximized*
+- *Hide Toolbar*
+- *Hide Title Bar*
+- *Autostart (after login)*
+- *Password Protection*
 
 ![ScreenRecording2025-09-07at12 21 22-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b7c6ad07-f76e-45de-99aa-db6b38fe372a)
 
@@ -23,8 +23,8 @@ Access settings through the application menu or status bar. Available options in
 ## To-Do
 
 * Cross platform support - Windows, MacOS, Linux, Android, IOS
-* Password protect config file
-* Password protect the desktop application
+* ~~Password protect config file~~
+* ~~Password protect the desktop application~~
 * Option to disable internet
 * Option to disable browser downloads
 * Add splash screen
