@@ -18,7 +18,7 @@ namespace Webview2Client
     {
         private string currentUrl;
         private const string REGISTRY_KEY = @"SOFTWARE\Microsoft\Windows\CurrentVersion\Run";
-        private const string APP_NAME = "Fuxa Client";
+        private const string APP_NAME = "Webview2Client";
 
         public MainForm()
         {
