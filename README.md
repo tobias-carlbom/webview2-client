@@ -4,12 +4,12 @@ A lightweight Windows desktop application that provides a dedicated browser expe
 
 ## Features
 
-- *Website URL (http/https)*
-- *Start Maximized*
-- *Hide Toolbar*
-- *Hide Title Bar*
-- *Autostart (after login)*
-- *Password Protection*
+- Website URL (http/https)
+- Start Maximized
+- Hide Toolbar
+- Hide Title Bar
+- Autostart (after login)
+- Password Protection
 
 Access settings through the application menu or status bar.
 
@@ -19,6 +19,7 @@ Access settings through the application menu or status bar.
 
 - Windows 10/11
 - .NET Framework 4.7.2 or higher
+- Microsoft Edge WebView2 Runtime (https://go.microsoft.com/fwlink/?linkid=2124701)
 
 ## To-Do
 
