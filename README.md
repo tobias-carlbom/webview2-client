@@ -1,3 +1,7 @@
+# UPDATE!
+
+This project will be archived and replaced with https://github.com/tobias-carlbom/Glass-Kiosk. Then new repo is a rewritten version in .NET8 of this project.
+
 # WebView2 Client
 
 A lightweight Windows desktop application that provides a dedicated browser experience for web applications using Microsoft's WebView2 control.
